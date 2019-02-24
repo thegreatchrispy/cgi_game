@@ -1,0 +1,126 @@
+Sprites approx. 14x35 pixels
+Should tiles be 35x35? 40x40?
+Map of office: 6x4 	        	|------|	|-----| 	        	         
+			  |--|  	|------|	|------|	|------|	|------|
+			  |--|  	|------|	|------|	|------|	|------|
+			        	|------|	|------|	|------|	|------|
+			b2		b1		1f		2f		roof
+
+Game takes place in [insert funny town name]
+	* main location
+		* office features
+			* 2 main cubicle areas
+			* bathroom (male & female)
+			* break room
+			* foyer
+			* 3 conference rooms
+			* floors
+				* b2 (secret)
+				* b1
+				* 1f
+				* 2f
+				* rooftop
+
+	* minor locations
+		* home
+		* bar
+		* party house (side quest, get invited to party)
+
+	* world features
+		* present day America
+		* laws, government, economy, etc. are similar to present day
+		* 
+
+	* game procedure
+		* spend 5 days performing various shenanigans
+			* Day 0 - Training
+			* Day 1 - 
+			* Day 2 - Printer Dilemma
+				* Boss needs the printer working again to print out critical documents
+				* Must seek out various items and people all over the office building
+				* Sequence of trades/events
+				* End with printer working printing out something stupid. Like lost cat posters or something.
+			* Day 3 - 
+			* Day 4 - 
+			* Day 5 - 
+		* clock at top of screen indicates time of day
+		* events happen at different times
+			* "fight" a boss at the end of each day
+			* boss fights are unique mini games
+			* characters follow time based scripts
+		* beat the game by reaching Friday and getting that sweet sweet bbq.
+
+	* main character
+		* male or female
+		* in their 20's
+		* pretty fresh out of college
+		* office worker
+		* hates their job, but works hard and is light-hearted
+		* thirst for mischief
+		* background
+			* 
+
+	* friend characters (can help with boss fights, but only one friend at a time)
+		* 5 coworkers
+			* 1 soccer obsessed partyer
+			* 1 anime obsessed pot head
+			* 1 musician
+			* 1 playboy
+			* 1 film hobbyist
+
+	* neutral characters
+		* 10 coworkers
+			* [funny lady name] from HR
+			* redneck center director
+			* Yoda-like team lead
+			*
+			*
+			* 
+			*
+			*
+			*
+			*
+
+	* enemy characters (bosses in the game)
+		* 5 coworkers
+			* 1 front desk secretary
+			* 1 annoying opposite sex Russian character
+			* 1 cranky guy on same project
+			* 1 annoying brony
+			* 1 big fat ex-FBI supervisor
+		* secret final boss (after getting the bbq)
+			* SCRUM MASTER
+
+Planning:
+	* Timeline
+		* Assets
+			* story
+			* sprites
+			* tilesets
+			* music
+		* Feature Implementation
+			* moveable character
+			* walls and doors
+			* stairs and other floors
+			* other locations
+				* bar
+				* home
+			* time system
+			* other characters
+				* exist
+				* can be interacted with
+				* can move
+				* can follow script
+			* boss fights
+			* secrets
+				* 2nd basement floor
+				* get invited to party at party house
+
+
+	*1. Initial ideas, planning, and design.
+	*2. Decide on game engine, begin programming, begin character designs.
+	-3. Finish character designs. Implement moving main character and walls and doors. Begin tileset designs.
+	 4. Implement some of tilesets. Implement talking to other characters. Continue work on tilesets.
+	 5. Finish tilesets.
+	 6. Testing.
+	 7. Release.
